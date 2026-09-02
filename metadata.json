@@ -1,0 +1,6 @@
+{
+  "name": "ScholarSync",
+  "description": "Academic Nexus for university students and researchers to collaborate, share lecture notes, and solve complex coursework questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
